@@ -14,14 +14,6 @@
 			"patreon": "https://www.patreon.com/ElfFriend_DnD"
 		}
 	],
-	"dependencies": [
-		{
-			"name": "character-actions-list-5e",
-			"type": "module",
-			"versionMin": "1.0.0",
-			"manifest": "https://github.com/ElfFriend-DnD/foundryvtt-dnd5eCharacterActions/releases/latest/download/module.json"
-		}
-	],
 	"esmodules": [
 		"foundryvtt-5eOGLCharacterSheet.js"
 	],
@@ -38,26 +30,30 @@
 	"media": [
 		{
 			"type": "cover",
-			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/master/readme-img/cover-image.png"
+			"url": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/master/readme-img/cover-image.png"
 		},
 		{
 			"type": "screenshot",
-			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/master/readme-img/main-top.png"
+			"url": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/master/readme-img/main-top.png"
 		},
 		{
 			"type": "screenshot",
-			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/master/readme-img/main-bottom.png"
+			"url": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/master/readme-img/main-bottom.png"
 		},
 		{
 			"type": "screenshot",
-			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/master/readme-img/spellbook.png"
+			"url": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/master/readme-img/spellbook.png"
 		},
 		{
 			"type": "screenshot",
-			"link": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/master/readme-img/biography.png"
+			"url": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/master/readme-img/biography.png"
 		}
 	],
 	"relationships": {
+		 "requires" : [
+    			  {
+     				   "id": "character-actions-list-5e"
+			      }
 		"systems": [
 			{
 				"id": "dnd5e",
@@ -72,7 +68,7 @@
 	"compatibility":{
 		"minimum": 10,
 		"verified": 10,
-		"maximum": 10
+		"maximum": 11
 	},
 	"bugs": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/issues",
 	"changelog": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/releases",
