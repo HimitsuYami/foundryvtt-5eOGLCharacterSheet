@@ -24,7 +24,7 @@ A classic layout for a 5e Character Sheet, heavily inspired by the Official 5e C
 Module JSON:
 
 ```
-https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/releases/latest/download/module.json
+https://github.com/HimitsuYami/foundryvtt-5eOGLCharacterSheet/releases/latest/download/module.json
 ```
 
 ### Dependencies
