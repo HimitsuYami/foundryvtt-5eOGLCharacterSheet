@@ -70,12 +70,12 @@
 		"verified": 10,
 		"maximum": 11
 	},
-	"bugs": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/issues",
-	"changelog": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/releases",
-	"download": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/releases/download/v0.14.1/module.zip",
-	"manifest": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/releases/latest/download/module.json",
-	"readme": "https://raw.githubusercontent.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet/master/README.md",
-	"url": "https://github.com/ElfFriend-DnD/foundryvtt-5eOGLCharacterSheet",
+	"bugs": "https://github.com/HimitsuYami/foundryvtt-5eOGLCharacterSheet/issues",
+	"changelog": "https://github.com/HimitsuYami/foundryvtt-5eOGLCharacterSheet/releases",
+	"download": "https://github.com/HimitsuYami/foundryvtt-5eOGLCharacterSheet/releases/download/v0.14.1/module.zip",
+	"manifest": "https://github.com/HimitsuYami/foundryvtt-5eOGLCharacterSheet/releases/latest/download/module.json",
+	"readme": "https://raw.githubusercontent.com/HimitsuYami/foundryvtt-5eOGLCharacterSheet/master/README.md",
+	"url": "https://github.com/HimitsuYami/foundryvtt-5eOGLCharacterSheet",
 	"flags": {
 		"allowBugReporter": true
 	},
