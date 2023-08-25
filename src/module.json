@@ -53,7 +53,7 @@
 		 "requires" : [
     			  {
      				   "id": "character-actions-list-5e"
-			      }
+			      },
 		"systems": [
 			{
 				"id": "dnd5e",
